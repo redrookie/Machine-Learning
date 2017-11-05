@@ -1,0 +1,255 @@
+Matriz de confusao Adaboost
+
+ 290   5   0   0  55  36
+   5 270   0   0  22   7
+   0   0  51   0   0   0
+   0   0   2  40   0   0
+  27   4   0   0  48  19
+  23   4   0   0  15  34
+
+******Acurracies******
+Walking acurracy 0.75130
+Jogging acurracy 0.88816
+Sitting acurracy 1.00000
+Standing acurracy 0.95238
+Upstairs acurracy 0.48980
+Downstairs acurracy 0.44737
+
+Matriz de confusao Decision Tree
+
+ 291   6   0   0  56  33
+   5 270   0   0  23   5
+   0   0  50   0   0   0
+   0   0   3  39   1   0
+  28   4   0   0  50  17
+  24   3   0   0  18  31
+
+******Acurracies******
+Walking acurracy 0.75389
+Jogging acurracy 0.89109
+Sitting acurracy 1.00000
+Standing acurracy 0.90698
+Upstairs acurracy 0.50505
+Downstairs acurracy 0.40789
+
+Matriz de confusao Logistic Regression
+
+ 373   8   0   0   2   2
+  19 283   0   0   0   0
+   0   0  49   1   0   0
+  17   0   0  26   1   0
+  74  11   1   0  10   4
+  55   9   0   0   7   5
+
+******Acurracies******
+Walking acurracy 0.96883
+Jogging acurracy 0.93709
+Sitting acurracy 0.98000
+Standing acurracy 0.59091
+Upstairs acurracy 0.10000
+Downstairs acurracy 0.06579
+
+Matriz de confusao MLP
+
+ 304  59   2   3  12   5
+ 110 177   3   2   6   4
+   5  16  24   0   2   2
+  23  10   2   4   2   0
+  70  18   2   1   5   3
+  53  15   1   0   3   2
+
+******Acurracies******
+Walking acurracy 0.78961
+Jogging acurracy 0.58609
+Sitting acurracy 0.48980
+Standing acurracy 0.09756
+Upstairs acurracy 0.05051
+Downstairs acurracy 0.02703
+
+Matriz de confusao Decisio Tree with Mean Removal
+
+ 290   5   0   0  57  33
+   5 270   0   0  22   5
+   0   0  51   0   0   0
+   0   0   3  40   1   0
+  26   4   0   0  51  17
+  23   3   0   0  17  33
+
+******Acurracies******
+Walking acurracy 0.75325
+Jogging acurracy 0.89404
+Sitting acurracy 1.00000
+Standing acurracy 0.90909
+Upstairs acurracy 0.52041
+Downstairs acurracy 0.43421
+
+Matriz de confusao Logistic Regression with Mean Removal
+
+ 373   6   0   0   3   4
+  29 274   0   0   0   0
+   0   0  50   1   0   0
+   9   0   0  33   1   0
+  74   6   1   0  13   5
+  55   4   0   0  10   6
+
+******Acurracies******
+Walking acurracy 0.96632
+Jogging acurracy 0.90429
+Sitting acurracy 0.98039
+Standing acurracy 0.76744
+Upstairs acurracy 0.13131
+Downstairs acurracy 0.08000
+
+Matriz de confusao MLP with Mean Removal
+
+ 364   3   4   0  11   3
+  29 273   0   0   1   0
+   1   0  47   2   0   0
+   9   0   2  28   4   0
+  63   5   2   0  23   5
+  47   6   0   0  15   7
+
+******Acurracies******
+Walking acurracy 0.94545
+Jogging acurracy 0.90099
+Sitting acurracy 0.94000
+Standing acurracy 0.65116
+Upstairs acurracy 0.23469
+Downstairs acurracy 0.09333
+
+Matriz de confusao Adaboost Normalization Features
+
+ 277  10   0   1  55  43
+  16 256   0   0  22   8
+   0   1  46   1   0   0
+   0   0   0  42   0   0
+  30   7   0   0  41  21
+  26   6   0   0  20  24
+
+******Acurracies******
+Walking acurracy 0.71762
+Jogging acurracy 0.84768
+Sitting acurracy 0.95833
+Standing acurracy 1.00000
+Upstairs acurracy 0.41414
+Downstairs acurracy 0.31579
+
+Matriz de confusao Decision Tree Normalization Features
+
+ 277   9   0   1  55  43
+  14 260   0   0  21   8
+   0   1  46   2   0   0
+   0   0   1  42   1   0
+  31   7   0   0  38  21
+  27   6   0   0  18  25
+
+******Acurracies******
+Walking acurracy 0.71948
+Jogging acurracy 0.85809
+Sitting acurracy 0.93878
+Standing acurracy 0.95455
+Upstairs acurracy 0.39175
+Downstairs acurracy 0.32895
+
+Matriz de confusao Logistic Regression Normalization Features
+
+ 330  50   5   0   1   0
+ 179 114   7   0   3   0
+  13   5  32   0   0   0
+  17  25   2   0   0   0
+  82  12   5   0   0   0
+  63  11   2   0   0   0
+
+******Acurracies******
+Walking acurracy 0.85492
+Jogging acurracy 0.37624
+Sitting acurracy 0.64000
+Standing acurracy 0.00000
+Upstairs acurracy 0.00000
+Downstairs acurracy 0.00000
+
+Matriz de confusao MLP Normalization Features
+
+ 358  28   0   0   0   0
+ 261  42   0   0   0   0
+  46   5   0   0   0   0
+  39   6   0   0   0   0
+  95   5   0   0   0   0
+  72   5   0   0   0   0
+
+******Acurracies******
+Walking acurracy 0.92746
+Jogging acurracy 0.13861
+Sitting acurracy 0.00000
+Standing acurracy 0.00000
+Upstairs acurracy 0.00000
+Downstairs acurracy 0.00000
+
+Matriz de confusao Adaboost with Mean Removal Normalization
+
+ 286  10   5   7  43  35
+  10 273   0   0  15   4
+   1   0  44   0   1   3
+   4   0   3  25   8   3
+  29   4   1   2  44  17
+  19   8   1   1  17  30
+
+******Acurracies******
+Walking acurracy 0.74093
+Jogging acurracy 0.90397
+Sitting acurracy 0.89796
+Standing acurracy 0.58140
+Upstairs acurracy 0.45361
+Downstairs acurracy 0.39474
+
+Matriz de confusao Decision Tree with Mean Removal Normalization
+
+ 283  11   5   5  46  34
+   9 274   0   0  15   5
+   1   0  46   0   1   1
+   3   0   3  25   8   4
+  29   4   2   2  44  18
+  21   7   0   1  17  28
+
+******Acurracies******
+Walking acurracy 0.73698
+Jogging acurracy 0.90429
+Sitting acurracy 0.93878
+Standing acurracy 0.58140
+Upstairs acurracy 0.44444
+Downstairs acurracy 0.37838
+
+Matriz de confusao Logistic Regression with Mean Removal Normalization
+
+ 364   7   6   0   3   5
+  30 271   0   0   0   0
+   5   0  44   1   0   1
+  28   0   2  11   2   0
+  69   6   6   0  13   4
+  45   7   2   0  11  10
+
+******Acurracies******
+Walking acurracy 0.94545
+Jogging acurracy 0.90033
+Sitting acurracy 0.86275
+Standing acurracy 0.25581
+Upstairs acurracy 0.13265
+Downstairs acurracy 0.13333
+
+Matriz de confusao MLP with Mean Rremovla Normalization
+
+ 360  10   5   0   7   3
+  24 276   0   0   1   0
+  17   0  32   0   1   0
+  19   0   2  19   2   1
+  69   6   3   0  15   5
+  46   8   0   0  12   9
+
+******Acurracies******
+Walking acurracy 0.93506
+Jogging acurracy 0.91694
+Sitting acurracy 0.64000
+Standing acurracy 0.44186
+Upstairs acurracy 0.15306
+Downstairs acurracy 0.12000
+

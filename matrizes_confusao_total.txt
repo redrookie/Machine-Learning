@@ -1,0 +1,204 @@
+Matriz de confusao DT
+
+ 292   5   0   0  54  33
+   3 270   0   0  23   7
+   0   0  51   0   0   0
+   0   0   3  40   0   0
+  28   4   0   0  51  16
+  22   3   0   0  18  33
+
+******Acurracies******
+Walking acurracy 0.76042
+Jogging acurracy 0.89109
+Sitting acurracy 1.00000
+Standing acurracy 0.93023
+Upstairs acurracy 0.51515
+Downstairs acurracy 0.43421
+
+Matriz de confusao LR
+
+ 373   8   0   0   2   2
+  19 283   0   0   0   0
+   0   0  49   1   0   0
+  17   0   0  26   1   0
+  74  11   1   0  10   4
+  55   9   0   0   7   5
+
+******Acurracies******
+Walking acurracy 0.96883
+Jogging acurracy 0.93709
+Sitting acurracy 0.98000
+Standing acurracy 0.59091
+Upstairs acurracy 0.10000
+Downstairs acurracy 0.06579
+
+Matriz de confusao MLP
+
+ 224  39   4   2  48  67
+  33 238   1   1  13  16
+   2   5  41   0   0   1
+  19   4   3   7   4   5
+  44  18   1   0  14  21
+  33  14   1   1  11  15
+
+******Acurracies******
+Walking acurracy 0.58333
+Jogging acurracy 0.78808
+Sitting acurracy 0.83673
+Standing acurracy 0.16667
+Upstairs acurracy 0.14286
+Downstairs acurracy 0.20000
+
+Matriz de confusao DTMR
+
+ 289   5   0   0  57  34
+   5 271   0   0  21   6
+   0   0  51   0   0   0
+   0   0   3  40   0   0
+  27   4   0   0  49  19
+  23   3   0   0  18  32
+
+******Acurracies******
+Walking acurracy 0.75065
+Jogging acurracy 0.89439
+Sitting acurracy 1.00000
+Standing acurracy 0.93023
+Upstairs acurracy 0.49495
+Downstairs acurracy 0.42105
+
+Matriz de confusao LRMR
+
+ 373   6   0   0   3   4
+  29 274   0   0   0   0
+   0   0  50   1   0   0
+   9   0   0  33   1   0
+  74   6   1   0  13   5
+  55   4   0   0  10   6
+
+******Acurracies******
+Walking acurracy 0.96632
+Jogging acurracy 0.90429
+Sitting acurracy 0.98039
+Standing acurracy 0.76744
+Upstairs acurracy 0.13131
+Downstairs acurracy 0.08000
+
+Matriz de confusao MLPMR
+
+ 344   2   2   0  23  14
+  21 272   0   0   5   4
+   1   0  48   1   0   0
+   1   0   1  35   6   0
+  36   3   0   0  47  12
+  27   1   0   0  24  23
+
+******Acurracies******
+Walking acurracy 0.89351
+Jogging acurracy 0.90066
+Sitting acurracy 0.96000
+Standing acurracy 0.81395
+Upstairs acurracy 0.47959
+Downstairs acurracy 0.30667
+
+Matriz de confusao DTNF
+
+ 276   8   0   1  53  46
+  15 258   0   0  21   9
+   0   1  46   2   0   0
+   0   0   0  42   0   0
+  32   7   0   0  39  20
+  28   5   0   0  18  25
+
+******Acurracies******
+Walking acurracy 0.71875
+Jogging acurracy 0.85149
+Sitting acurracy 0.93878
+Standing acurracy 1.00000
+Upstairs acurracy 0.39796
+Downstairs acurracy 0.32895
+
+Matriz de confusao LRNF
+
+ 330  50   5   0   1   0
+ 179 114   7   0   3   0
+  13   5  32   0   0   0
+  17  25   2   0   0   0
+  82  12   5   0   0   0
+  63  11   2   0   0   0
+
+******Acurracies******
+Walking acurracy 0.85492
+Jogging acurracy 0.37624
+Sitting acurracy 0.64000
+Standing acurracy 0.00000
+Upstairs acurracy 0.00000
+Downstairs acurracy 0.00000
+
+Matriz de confusao MLPNF
+
+ 362  21   1   0   1   0
+  64 237   1   0   2   0
+   2   3  45   0   0   0
+  22   7   4  10   0   0
+  85  10   1   0   2   0
+  62  12   1   0   1   0
+
+******Acurracies******
+Walking acurracy 0.94026
+Jogging acurracy 0.77961
+Sitting acurracy 0.90000
+Standing acurracy 0.23256
+Upstairs acurracy 0.02041
+Downstairs acurracy 0.00000
+
+Matriz de confusao DTMRN
+
+ 279  11   4   5  47  39
+   9 274   1   0  15   5
+   1   0  46   0   1   1
+   4   0   3  25   7   3
+  28   4   2   2  44  18
+  19   8   0   1  16  31
+
+******Acurracies******
+Walking acurracy 0.72468
+Jogging acurracy 0.90132
+Sitting acurracy 0.93878
+Standing acurracy 0.59524
+Upstairs acurracy 0.44898
+Downstairs acurracy 0.41333
+
+Matriz de confusao LRMRN
+
+ 364   7   6   0   3   5
+  30 271   0   0   0   0
+   5   0  44   1   0   1
+  28   0   2  11   2   0
+  69   6   6   0  13   4
+  45   7   2   0  11  10
+
+******Acurracies******
+Walking acurracy 0.94545
+Jogging acurracy 0.90033
+Sitting acurracy 0.86275
+Standing acurracy 0.25581
+Upstairs acurracy 0.13265
+Downstairs acurracy 0.13333
+
+Matriz de confusao MLPMRN
+
+ 349   1   4   0  20  11
+  23 274   0   0   3   2
+   0   0  50   1   0   0
+   0   0   2  35   5   1
+  38   3   1   0  44  12
+  29   3   0   0  23  20
+
+******Acurracies******
+Walking acurracy 0.90649
+Jogging acurracy 0.90728
+Sitting acurracy 0.98039
+Standing acurracy 0.81395
+Upstairs acurracy 0.44898
+Downstairs acurracy 0.26667
+
